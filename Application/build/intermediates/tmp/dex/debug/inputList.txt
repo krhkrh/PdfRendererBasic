@@ -1,0 +1,7 @@
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/classes/debug
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-19a65efa12d623bbe6e12190d06445648b626310.jar
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-0f451da6b5bc6c561652c05c3bc8983e1ed899a7.jar
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/classes-b9ebb89a10c9e2bd18ec84f9f2c0117feef82012.jar
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/classes-2c70ff9bdf736b11d093e11217973cda1e6ae747.jar
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-7cc9c4eea8ecb5d5dc0a55587fc79777eca23898.jar
+/Users/chizhang/AndroidStudioProjects/PdfRendererBasic/Application/build/intermediates/pre-dexed/debug/classes-1b9b8eef6a12737f54536ce42d9fd56604cf224b.jar
